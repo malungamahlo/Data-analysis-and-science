@@ -41,12 +41,14 @@ This directory contains a four-page Power BI report:
 
 •	The report provides insightful analytics on hotel reservations.
 •	It can be downloaded and opened locally using Power BI Desktop.
-
 •	A folder of screenshots is included to preview key visuals.
+
+To view and interact with the report visit this link below.
+
 🔗[https://app.fabric.microsoft.com/view?r=eyJrIjoiMjFjZTE3ODUtZTk2OC00MTRmLWEzNTgtZjhiMGZkMTU5MGUyIiwidCI6IjZmNWIwMWZlLTg5ZDQtNDk4Ny1iY2QxLTg1MDkzZjA3ZGFiMSJ9]
+
 Need Full Access?
 To access the Power BI workspace:
-•	
 Send an email to malungamahlo@gmail.com with the subject:
 "Hotel Booking Report Access Request"
 
